@@ -1,0 +1,11 @@
+email: ler.jimmy@gmail.com
+fullname: admin
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$BcbWy3/A8DC9sh.ymyUg4OvHZhJ3Skf3el/snqOUz0563sj/xVROC

@@ -1,0 +1,68 @@
+title: 'JL&P'
+default_lang: en
+author:
+  name: 'Joe Bloggs'
+  email: ler.jimmy@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Twenty is a free and responsive theme for **Grav**. Its a port of Twenty template by HTML5 UP.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+social:
+  -
+    label: Twitter
+    url: '#'
+    icon: twitter
+  -
+    label: Facebook
+    url: '#'
+    icon: facebook
+  -
+    label: Google+
+    url: '#'
+    icon: google-plus
+  -
+    label: Github
+    url: '#'
+    icon: github
+  -
+    label: Dribbble
+    url: '#'
+    icon: dribbble
+copyright:
+  line1: Untitled
+  line2: 'Design:'
+  url: 'http://html5up.net'
+  url_label: 'HTML5 UP'
+logo:
+  text1: Twenty
+  text2: 'by HTML5 UP'
+submenu:
+  -
+    text: 'Dolore Sed'
+    link: '#'
+  -
+    text: Consequat
+    link: '#'
+  -
+    text: 'Lorem Magna'
+    link: '#'
+  -
+    text: 'Sed Magna'
+    link: '#'
+  -
+    text: 'Ipsum Nisl'
+    link: '#'
+buttons:
+  -
+    text: 'Sign Up'
+    link: '#'
